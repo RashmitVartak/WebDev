@@ -1,0 +1,78 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #343a40;
+    color: #fff;
+    padding: 1rem 0;
+    width: 1520px;
+
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #17a2b8;
+    margin-top: 2rem;
+}
+
+.nav{
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Image Styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Summary Section Styles */
+.bg-light p {
+    font-size: 1.1rem;
+}
+
+/* Add a border to sections */
+.bg-light {
+    border: 2px solid #000;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Experience and Education Section Styles */
+#t1 li {
+    padding: 5px 0;
+}
+
+/* Contact Form Styles */
+.form-group label {
+    font-weight: bold;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+#contacts a {
+    color: #000;
+}
+
+#contacts a:hover {
+    color: #17a2b8;
+}
